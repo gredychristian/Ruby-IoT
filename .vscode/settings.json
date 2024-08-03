@@ -1,0 +1,12 @@
+{
+    "vsmqtt.brokerProfiles": [
+        {
+            "name": "robotics.upnjatim",
+            "host": "roboticsupnjatim.cloud.shiftr.io",
+            "port": 1883,
+            "username": "roboticsupnjatim",
+            "password": "pGPF02Nk6Fr8Tr2480238",
+            "clientId": "vsmqtt_client_cd79"
+        }
+    ]
+}
